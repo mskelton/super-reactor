@@ -1,0 +1,13 @@
+{
+  "name": "super-reactor",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [
+    "slack",
+    "bot",
+    "reactions",
+    "emoji"
+  ],
+  "author": "Mark Skeleton",
+  "license": "ISC"
+}
